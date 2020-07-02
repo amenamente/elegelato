@@ -1,0 +1,52 @@
+body {
+	background-color: AntiqueWhite;
+}
+
+.jumbotron {
+	margin-top: 20px;
+	background-color: Seashell;
+	box-shadow: 1px 3px 10px #a0887e;
+}
+
+#banner-login {
+	width: 150px;
+}
+
+.btn-primary {
+	background-color: #5d4038;
+    border-color: #5d4038;
+    border-radius: 0.4rem;
+    width: 200px;
+}
+
+#secondary-btn {
+    background-color: #a0887e;
+    border-color: #a0887e;
+}
+
+.list-group-item.active {
+    background-color: #5d4038;
+    border-color: #5d4038;
+}
+
+.list-group-item:first-child {
+    border-top-left-radius: 0.4rem;
+    border-top-right-radius: 0.4rem;
+}
+
+.list-group-item:last-child {
+    border-bottom-right-radius: 0.4em;
+    border-bottom-left-radius: 0.4rem;
+}
+
+.iconButton {
+    max-width: 40px;
+}
+
+a {
+    color: #a0887e;
+}
+
+a:hover {
+    color: #5e4138;
+}
